@@ -6,17 +6,14 @@ Toda a construção deste repositório está interligada aos conhecimentos adqui
 
 
 ## Sobre o design patterns 
-[Aqui vai uma breve descrição do que é design patterns]
+🚧 Será preenchido conforme evolução dos estudos!
 
 ## Estrutura do repositório
 
 ```text
 curso-design-patterns/
 ├── criacional/
-│   └── factory_method/
 ├── estrutural/
-│   ├── adapter/
-│   ├── facade/
 │   └── proxy/
 └── comportamental/
     └── strategy/
