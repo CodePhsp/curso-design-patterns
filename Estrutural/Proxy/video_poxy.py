@@ -1,7 +1,7 @@
 from interface_proxy import InterfaceProxy
 
 
-class VideoProxy(InterfaceProxy):
+class VideoProxy:
     
     def __init__(self, service: InterfaceProxy):
         self._service = service
